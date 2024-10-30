@@ -1,0 +1,90 @@
+.rid-ipls .original-repeatable-field {
+	display: none;
+}
+.rid-ipls .option-section {
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+.rid-ipls .option-heading {
+	font-size: 16px;
+	font-weight: bold;
+}
+.rid-ipls .header-wrapper {
+	margin-bottom: 10px;
+}
+.rid-ipls .clearfix::after {
+	content: '';
+	display: table;
+	clear: both;
+}
+.rid-ipls .ip-heading,
+.rid-ipls .language-heading {
+	float: left;
+}
+.rid-ipls .ip-heading {
+	width: 412px;
+}
+.rid-ipls .right-arrow {
+	font-size: 36px;
+	color: #aaa;
+	display: none;
+}
+.rid-ipls .arrow-col {
+	width: 52px;
+	text-align: center;
+	vertical-align: middle;
+}
+.rid-ipls .arrow-col::after {
+	content: "\f344";
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	font: normal 22px/1 'dashicons';
+	vertical-align: top;
+	color: #999;
+}
+.rid-ipls .map-fields {
+	border-collapse: collapse;
+	border-spacing: 0px;
+}
+.rid-ipls .map-fields tr td {
+	padding-bottom: 8px;
+}
+.rid-ipls .map-fields tr:last-child td {
+	padding-bottom: 0;
+}
+.rid-ipls .row-action-buttons {
+    position: relative;
+    width: 60px;
+}
+.rid-ipls .row-action-buttons .remove-row {
+    margin-left: 4px;
+    border: 0;
+    border-radius: 50%;
+    height: 22px;
+    width: auto;
+    left: 0;
+    top: 0;
+    display: block;
+    float: left;
+    position: relative;
+    margin-top: 0;
+}
+.rid-ipls .row-action-buttons .remove-row::after {
+	content: "\f153";
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    font: normal 18px/1 'dashicons';
+    vertical-align: middle;
+    color: #999;
+    vertical-align: top;
+    top: auto;
+    position: relative;
+    left: auto;
+    height: 22px;
+    line-height: 22px;
+    cursor: pointer;
+}
+.rid-ipls .row-action-buttons .remove-row:hover::after {
+	color: #666;
+}

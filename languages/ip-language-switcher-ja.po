@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-05-22 09:17+0700\n"
+"PO-Revision-Date: 2017-05-22 09:18+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ip-language-switcher.php:37
+msgid "IP Language Switcher settings"
+msgstr ""
+
+#: ip-language-switcher.php:37
+msgid "Settings"
+msgstr "設定"
+
+#: ip-language-switcher.php:70 ip-language-switcher.php:76
+msgid "IP Language Switcher"
+msgstr ""
+
+#: ip-language-switcher.php:99
+msgid "Default Language for all of IP"
+msgstr "全てのIPに言語をデフォルト設定できる"
+
+#: ip-language-switcher.php:102
+msgid "Your IP"
+msgstr "あなたのIP"
+
+#: ip-language-switcher.php:106
+msgid "Language"
+msgstr "言語"
+
+#: ip-language-switcher.php:123
+msgid "Add IP"
+msgstr "IPを追加"
+
+#: ip-language-switcher.php:158
+msgid "Type the IP..."
+msgstr "IPを入力してください"
+
+#~ msgid "Add Row"
+#~ msgstr "行の追加"
